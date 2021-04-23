@@ -1,7 +1,6 @@
 # Calculator
 
 
-
 This is my very first assignment i.e to make a simple calculator from  python.
 
 
